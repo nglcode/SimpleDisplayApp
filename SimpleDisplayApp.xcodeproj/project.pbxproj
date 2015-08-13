@@ -13,6 +13,8 @@
 		8B0DF1AA1B7CF646003F8376 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B0DF1A91B7CF646003F8376 /* Images.xcassets */; };
 		8B0DF1AD1B7CF646003F8376 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8B0DF1AB1B7CF646003F8376 /* LaunchScreen.xib */; };
 		8B0DF1B91B7CF646003F8376 /* SimpleDisplayAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B0DF1B81B7CF646003F8376 /* SimpleDisplayAppTests.swift */; };
+		8B0DF1C31B7CF86C003F8376 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B0DF1C21B7CF86C003F8376 /* FirstViewController.swift */; };
+		8B0DF1C51B7CF879003F8376 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B0DF1C41B7CF879003F8376 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		8B0DF1B21B7CF646003F8376 /* SimpleDisplayAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SimpleDisplayAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B0DF1B71B7CF646003F8376 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8B0DF1B81B7CF646003F8376 /* SimpleDisplayAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleDisplayAppTests.swift; sourceTree = "<group>"; };
+		8B0DF1C21B7CF86C003F8376 /* FirstViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		8B0DF1C41B7CF879003F8376 /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +84,8 @@
 				8B0DF1A21B7CF646003F8376 /* AppDelegate.swift */,
 				8B0DF1A41B7CF646003F8376 /* ViewController.swift */,
 				8B0DF1A61B7CF646003F8376 /* Main.storyboard */,
+				8B0DF1C21B7CF86C003F8376 /* FirstViewController.swift */,
+				8B0DF1C41B7CF879003F8376 /* SecondViewController.swift */,
 				8B0DF1A91B7CF646003F8376 /* Images.xcassets */,
 				8B0DF1AB1B7CF646003F8376 /* LaunchScreen.xib */,
 				8B0DF1A01B7CF646003F8376 /* Supporting Files */,
@@ -212,6 +218,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8B0DF1C51B7CF879003F8376 /* SecondViewController.swift in Sources */,
+				8B0DF1C31B7CF86C003F8376 /* FirstViewController.swift in Sources */,
 				8B0DF1A51B7CF646003F8376 /* ViewController.swift in Sources */,
 				8B0DF1A31B7CF646003F8376 /* AppDelegate.swift in Sources */,
 			);
