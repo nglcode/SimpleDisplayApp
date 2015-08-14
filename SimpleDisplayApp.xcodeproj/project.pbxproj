@@ -81,6 +81,7 @@
 		8B0DF19F1B7CF646003F8376 /* SimpleDisplayApp */ = {
 			isa = PBXGroup;
 			children = (
+				8B1326F51B7DD0B90053C788 /* Frameworks */,
 				8B0DF1A21B7CF646003F8376 /* AppDelegate.swift */,
 				8B0DF1A41B7CF646003F8376 /* ViewController.swift */,
 				8B0DF1A61B7CF646003F8376 /* Main.storyboard */,
@@ -116,6 +117,13 @@
 				8B0DF1B71B7CF646003F8376 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		8B1326F51B7DD0B90053C788 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -419,6 +427,7 @@
 				8B0DF1BE1B7CF646003F8376 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8B0DF1BF1B7CF646003F8376 /* Build configuration list for PBXNativeTarget "SimpleDisplayAppTests" */ = {
 			isa = XCConfigurationList;
@@ -427,6 +436,7 @@
 				8B0DF1C11B7CF646003F8376 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
