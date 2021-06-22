@@ -184,10 +184,9 @@
 			};
 			buildConfigurationList = 8B0DF1981B7CF646003F8376 /* Build configuration list for PBXProject "SimpleDisplayApp" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				English,
 				en,
 				Base,
 			);
