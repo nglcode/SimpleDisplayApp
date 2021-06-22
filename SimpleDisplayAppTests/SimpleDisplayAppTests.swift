@@ -2,8 +2,8 @@
 //  SimpleDisplayAppTests.swift
 //  SimpleDisplayAppTests
 //
-//  Created by Max MacLeod on 13/08/2015.
-//  Copyright (c) 2015 Surya. All rights reserved.
+//  Created by Max MacLeod on 13/08/2021.
+//  Copyright (c) 2021 Kindred Group. All rights reserved.
 //
 
 import UIKit
