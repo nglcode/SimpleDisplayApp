@@ -26,11 +26,28 @@ class SimpleDisplayAppTests: XCTestCase {
         XCTAssert(true, "Pass")
     }
     
+    func testA() {
+        // This is an example of a functional test case.
+        print("TestA")
+    }
+    
+    func testC() {
+        // This is an example of a functional test case.
+        print("TestC")
+    }
+    
+    func testB() {
+        // This is an example of a functional test case.
+        print("TestB")
+    }
+    
     func testPerformanceExample() {
         // This is an example of a performance test case.
         self.measure() {
             // Put the code you want to measure the time of here.
         }
     }
+    
+    
     
 }
